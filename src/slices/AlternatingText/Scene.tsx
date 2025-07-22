@@ -1,6 +1,6 @@
 "use client";
 
-import { Environment, Scroll } from "@react-three/drei";
+import { Environment} from "@react-three/drei";
 import { useRef } from "react";
 import { Group } from "three";
 import gsap from "gsap";
