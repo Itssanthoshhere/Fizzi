@@ -12,7 +12,7 @@ import { useMediaQuery } from "@/hooks/useMediaQuery";
 
 gsap.registerPlugin(ScrollTrigger, useGSAP);
 
-type Props = {};
+type Props = object;
 
 export default function Scene({ }: Props) {
     const canRef = useRef<Group>(null);
