@@ -3,7 +3,8 @@
 
 Welcome to **Fizzi**, an interactive, animated soda can experience built with [Next.js](https://nextjs.org/), [Three.js (via React Three Fiber)](https://docs.pmnd.rs/react-three-fiber), and [Prismic](https://prismic.io/). This project leverages the Prismic + Next.js Minimal Starter and adds beautiful custom 3D components, animations, and rich CMS integration.
 
-![Fizzi Preview](https://user-images.githubusercontent.com/31219208/228821412-fdde92b2-c13c-4287-b799-611fa96a5fd6.png)
+## 🚀 Live Demo
+[🔗 Click here to view the live site](https://fizzi-soda-for-gusty-people.vercel.app/)  
 
 ---
 
@@ -117,5 +118,27 @@ Follow this guide to deploy on Vercel or any platform:
 
 ---
 
+## 📬 Connect With Me
+
+Feel free to connect if you liked the project or have any suggestions!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thesanthoshvs)
+
+---
+
+## 📄 License
+
+This project is for **educational purposes only** and is **not affiliated with or endorsed by** [Prismic](https://www.linkedin.com/company/prismic-io/), Next.js, or any other third-party tools mentioned.
+
+ #### 🎥 Inspired by the tutorial:
+- **How I built a 3D soda can website using Three.js & Prismic** by Prismic
+  
+  📺 [Watch on YouTube](https://youtu.be/RKQqrNyAC6k?si=bT-Wfq4iwJbj6ExW)
+
+All trademarks and assets belong to their respective owners.
+
+---
+
 > Created with ❤️ using Prismic, Next.js & Three.js – customized by Santhosh VS
 
+---
