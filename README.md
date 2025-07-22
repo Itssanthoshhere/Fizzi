@@ -10,11 +10,6 @@ This project leverages the Prismic + Next.js Minimal Starter and adds custom 3D 
 
 ---
 
-Let me know if you'd like a matching **project summary** or **tech stack section** to go with it!
-
-
----
-
 ## ⚡ Quick Start
 
 1. **Create a Prismic Repo:**
