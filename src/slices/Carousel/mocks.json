@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Dropped"
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Aliquip Lorem consequat cupidatat id officia ad pariatur ipsum laborum. Cupidatat nostrud officia est aute. Quis pariatur occaecat adipisicing mollit veniam enim laborum ipsum enim nulla ut nulla in."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]

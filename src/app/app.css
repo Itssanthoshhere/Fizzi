@@ -1,0 +1,8 @@
+/* Injects Tailwind's base styles (resets, Normalize.css) */
+@tailwind base;
+
+/* Injects any custom or built-in component styles */
+@tailwind components;
+
+/* Injects all utility classes (e.g., p-4, text-center) */
+@tailwind utilities;
